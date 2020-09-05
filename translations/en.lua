@@ -110,7 +110,7 @@ translations.en = {
 
     senseiTip1 = "As your Sensei, it’s my duty to help. In order to become a true ninja, you must learn to use your abilities. Double press in a direction to dash.",
 	senseiTip2 = "%s, double press in a direction to dash.",
-	senseiTip3 = "Take your time, no need to rush, but I’d double press in a direction to dash if a were you, %s.",
+	senseiTip3 = "Take your time, no need to rush, but I’d double press in a direction to dash if I was you, %s.",
 
     senseiReply1 = "GG",	
     senseiReply2 = "Gj!",
